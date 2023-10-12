@@ -18,10 +18,7 @@
 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" >](https://www.linkedin.com/in/joao-w/?original_referer=)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" width="30" >](https://www.instagram.com/joaowvz/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="30" >](https://twitter.com/joaowv__)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/640px-Twitch_logo_2019.svg.png" width="50" >](https://www.twitch.tv/eziowao)
-[<img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" width="30" >](https://github.com/joaowav)  
+ 
 
 
 
